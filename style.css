@@ -195,6 +195,7 @@ hr {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    background-color: var(--Light-pink);
     background-image: url(assets/images/background-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-position: top center;
